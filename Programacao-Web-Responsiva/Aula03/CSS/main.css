@@ -1,0 +1,66 @@
+Ul{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    list-style-type: none;
+    
+}
+header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    
+}
+
+a{
+color:#000;
+text-decoration:none;
+}
+/* Formatação Links Nav */
+a:visited{
+    color:#000;
+    text-decoration:none;
+}
+
+a:hover{
+    color:#000;
+    text-decoration:none;
+}
+a:active{
+    color:#000;
+    text-decoration:none;
+}
+/* Formatação dos links Likedin/GitHub */
+.Site{
+    color:rgb(13, 68, 68);
+    text-decoration:none;
+    font-size:18pt;
+    }
+.Site:visited{
+    color:rgb(13, 68, 68);
+        text-decoration:none;
+    }
+    
+.Site:hover{
+    color:rgb(13, 68, 68);
+        text-decoration:none;
+    }
+.Site:active{
+    color:rgb(13, 68, 68);
+        text-decoration:none;
+    }
+    
